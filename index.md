@@ -24,12 +24,16 @@
 
   [Guia](https://www.speedrun.com/grid_runner/guides)
 
+
+  [O que é um TAS?](https://tasvideos.org/WelcomeToTASVideos#WhatIsATas)
+
+
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ujp6zjSL1aA?si=e35yzwd39GB3IeQc" title="TAS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 
-  [O que é um TAS?](https://tasvideos.org/WelcomeToTASVideos#WhatIsATas)
-
+  
 
 
 ### Tradução
