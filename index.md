@@ -13,21 +13,22 @@
 
 ### Game Testing
 
- [https://tinybirdgames.itch.io/cursory-dungeon]
+ [Cursory Dungeon](https://tinybirdgames.itch.io/cursory-dungeon)
 
-  [https://tinybirdgames.itch.io/tinyattack]
+  [Tiny Attack](https://store.steampowered.com/app/1472970/TinyAttack/)
 
-  [https://store.steampowered.com/app/1472970/TinyAttack/]
-
+  
 ### TAS
 
-  [https://www.speedrun.com/grid_runner/resources] 
+  [Documentação, Mapas e Recursos](https://www.speedrun.com/grid_runner/resources)
 
-  [https://www.speedrun.com/grid_runner/guides ]
+  [Guia](https://www.speedrun.com/grid_runner/guides)
 
-  [https://www.youtube.com/watch?v=Ujp6zjSL1aA&feature=youtu.be]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ujp6zjSL1aA?si=e35yzwd39GB3IeQc" title="TAS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-  [https://tasvideos.org/WelcomeToTASVideos#WhatIsATas]
+
+
+  [O que é um TAS?](https://tasvideos.org/WelcomeToTASVideos#WhatIsATas)
 
 
 
