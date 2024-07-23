@@ -13,24 +13,25 @@
 
 ###Game Testing
 
-https://tinybirdgames.itch.io/cursory-dungeon
+  https://tinybirdgames.itch.io/cursory-dungeon
 
-https://tinybirdgames.itch.io/tinyattack
+  https://tinybirdgames.itch.io/tinyattack
 
-https://store.steampowered.com/app/1472970/TinyAttack/
+  https://store.steampowered.com/app/1472970/TinyAttack/
 
 ###TAS
 
-https://www.speedrun.com/grid_runner/resources 
+  https://www.speedrun.com/grid_runner/resources 
 
-https://www.speedrun.com/grid_runner/guides 
+  https://www.speedrun.com/grid_runner/guides 
 
-https://www.youtube.com/watch?v=Ujp6zjSL1aA&feature=youtu.be 
+  https://www.youtube.com/watch?v=Ujp6zjSL1aA&feature=youtu.be 
 
-https://tasvideos.org/WelcomeToTASVideos#WhatIsATas
+  https://tasvideos.org/WelcomeToTASVideos#WhatIsATas
 
 ###QA 
-(/assets/00.png)
+
+  [!Exemplo(/assets/00.png)]
 
 
 
