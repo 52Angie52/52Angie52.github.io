@@ -1,4 +1,4 @@
-![Logo](/assets/snekie.jpg)
+![Logo](/assets/snekie.png)
 
 ## Perfil
 
