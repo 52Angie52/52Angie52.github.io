@@ -1,4 +1,4 @@
-![Logo](/assets/snekie.jpg =400x400)
+![Logo](/assets/snekie.jpg)
 
 ## Perfil
 
