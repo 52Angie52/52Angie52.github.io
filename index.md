@@ -1,4 +1,4 @@
-![Logo](/assets/snekie.jpg)
+![Logo](/assets/snekie.jpg | width=400)
 
 ## Perfil
 
