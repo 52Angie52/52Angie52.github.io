@@ -1,3 +1,5 @@
+![Logo](/assets/snekie.jpg)
+
 ## Perfil
 
   Olá, me chamo Tsuki Garrit e este é meu Portfolio:
