@@ -31,7 +31,10 @@
 
 ### QA 
 
-  !(/assets/00.png)
+  [!(/assets/00.png)]
+
+### Tradução
+
 
 
 
