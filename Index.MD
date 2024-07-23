@@ -11,7 +11,7 @@
   -TAS e Documentação
   -Game testing
 
-###Game Testing
+### Game Testing
 
   https://tinybirdgames.itch.io/cursory-dungeon
 
@@ -19,7 +19,7 @@
 
   https://store.steampowered.com/app/1472970/TinyAttack/
 
-###TAS
+### TAS
 
   https://www.speedrun.com/grid_runner/resources 
 
@@ -29,7 +29,7 @@
 
   https://tasvideos.org/WelcomeToTASVideos#WhatIsATas
 
-###QA 
+### QA 
 
   [!Exemplo(/assets/00.png)]
 
