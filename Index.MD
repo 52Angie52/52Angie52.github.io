@@ -31,7 +31,7 @@
 
 ### QA 
 
-  [!Exemplo(/assets/00.png)]
+  [![Exemplo](/assets/00.png)]
 
 
 
