@@ -34,6 +34,7 @@
   ![QA](/assets/00.png)
 
 ### Tradução
+  ![Tradução](/assets/0.jpg)
 
 
 
