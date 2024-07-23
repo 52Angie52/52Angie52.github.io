@@ -3,13 +3,13 @@
   Olá, me chamo Tsuki Garrit e este é meu Portfolio:
 
 ### Conhecimentos
-
-  -Formada em Gestão de RH
-  -Fluente em Inglês
-  -Tradutora voluntária
-  -QA voluntária
-  -TAS e Documentação
-  -Game testing
+- Formada em Gestão de RH
+- Fluente em Inglês
+- Tradutora voluntária
+- QA voluntária
+- TAS e Documentação
+- Game testing
+  
 
 ### Game Testing
 
